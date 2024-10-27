@@ -1,6 +1,6 @@
 # Hi There 👋
 
-I'm a seasoned Cloud Infrastructure Architect with a proven track record of 10+ years of production experience in AWS, more than 15 years of industry experience. Expert in Terraform & Containerization.
+I'm a seasoned Cloud Infrastructure Architect with a proven track record of 12+ years of production experience in AWS, more than 17 years of industry experience. Expert in Terraform & Containerization.
 
 I am [now](https://automationd.com/now)
 
